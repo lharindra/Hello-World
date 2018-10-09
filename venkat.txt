@@ -1,5 +1,8 @@
 Hi All,
 
 This is venkat from Devops
+<<<<<<< HEAD
  this is todday
 this is tuesday
+=======
+>>>>>>> parent of 3262db0... third commit
