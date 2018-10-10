@@ -3,4 +3,3 @@ Hi All,
 This is venkat from Devops
  this is todday
 this is tuesday
-this is wednesday
