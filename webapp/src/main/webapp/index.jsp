@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Harindra Technologies !! </h1>
+<h1 bg_color=red> Hello, Welcome to Harindra Technologies !! </h1>
 <h2> AWS & DevOps training </h2>
 <h2> Happy learning </h2>
 <h2> Contact us on +91-8465053812 </h2>
